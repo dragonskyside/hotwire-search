@@ -1,6 +1,6 @@
 # README
 
-This simple app to explore hotwire. It is an application which has a players model that can be populated and searched thorough a form. The interesting thing is that search queries can be updated in real time, allowing the user see results as they type. 
+I created this simple app to explore hotwire the new technology that replaces - for the most part- React in many rails applications. The app cosists of a players model that can be populated and searched thorough a form. The interesting thing is that search queries can be updated in real time, allowing the user see results as they type. 
 
 Dependencies:
 
