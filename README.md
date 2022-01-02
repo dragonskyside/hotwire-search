@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This simple app to explore hotwire. It is an application which has a players model that can be populated and searched thorough a form. The interesting thing is that search queries can be updated in real time, allowing the user see results as they type. 
 
-Things you may want to cover:
+Dependencies:
 
-* Ruby version
+* Ruby 3.0.3
 
-* System dependencies
+* Rails 7.0.0 (Node and Stimulus come bundled with Rails 7)
 
-* Configuration
+* Node v17.3.0
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
